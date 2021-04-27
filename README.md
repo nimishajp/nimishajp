@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nimisha jagtap
 - 👀 I’m interested in c++ programming
 - 🌱 I’m currently learning c++ and DSA
-- 💞️ I’m looking for onternship
+- 💞️ I’m looking for internship
  - 📫 How to reach me Mail -> jagtapnimisha2@gmail.com
 
 <!---
