@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nimishajp
+- 👋 Hi, I’m @nimisha jagtap
 - 👀 I’m interested in c++ programming
 - 🌱 I’m currently learning c++ and DSA
 - 💞️ I’m looking for onternship
